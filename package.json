@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/cucc-flow/common.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
