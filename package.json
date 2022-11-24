@@ -10,7 +10,6 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "private": true,
   "license": "UNLICENSED",
   "scripts": {
     "prebuild": "rimraf dist",
